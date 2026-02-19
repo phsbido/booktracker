@@ -1,10 +1,10 @@
-package com.pbido.booktrack;
+package com.pbido.booktracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BooktrackApplicationTests {
+class BooktrackerApplicationTests {
 
 	@Test
 	void contextLoads() {
